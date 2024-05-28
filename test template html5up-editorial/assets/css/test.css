@@ -1,0 +1,18 @@
+
+.paper {
+
+    display: flex;
+    align-items: center;
+    
+}
+
+.paper img{
+    width: 25%;
+    height: auto;
+    margin-right: 10px;
+}
+
+.paper p{
+    flex: 1;
+}
+  
